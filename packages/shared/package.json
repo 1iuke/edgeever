@@ -20,6 +20,7 @@
     "./i18n/zh-CN": "./src/i18n/zh-CN.ts",
     "./i18n/ja": "./src/i18n/ja.ts",
     "./i18n/pl": "./src/i18n/pl.ts",
+    "./i18n/ru": "./src/i18n/ru.ts",
     "./i18n/locales": "./src/i18n/locales.ts",
     "./memo-template-seeds": "./src/memo-template-seeds.ts",
     "./default-workspace-seeds": "./src/default-workspace-seeds.ts",
@@ -36,7 +37,10 @@
     "./font-resources": "./src/font-resources.ts",
     "./note-image-fonts": "./src/note-image-fonts.ts",
     "./note-image-preferences": "./src/note-image-preferences.ts",
-    "./public-page-headers": "./src/public-page-headers.ts"
+    "./public-page-headers": "./src/public-page-headers.ts",
+    "./video-outline": "./src/video-outline.ts",
+    "./companion-discovery-context": "./src/companion-discovery-context.ts",
+    "./provider-event-stream": "./src/provider-event-stream.ts"
   },
   "types": "./src/index.ts",
   "dependencies": {
